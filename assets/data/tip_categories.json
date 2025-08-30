@@ -1,0 +1,165 @@
+{
+  "categories": {
+    "morning": {
+      "time_range": [6, 11],
+      "weather_conditions": {
+        "sunny": [
+          "Buổi sáng nắng đẹp! Thời điểm lý tưởng để tập thể dục ngoài trời hoặc đi dạo.",
+          "Ánh nắng buổi sáng rất tốt cho sức khỏe. Hãy ra ngoài hít thở không khí trong lành!",
+          "Sáng nay trời quang đãng, hãy mở cửa sổ để đón ánh nắng tự nhiên vào nhà."
+        ],
+        "cloudy": [
+          "Sáng nay trời có mây, ánh sáng dịu nhẹ. Thích hợp để đọc sách bên cửa sổ.",
+          "Thời tiết mát mẻ buổi sáng, phù hợp để làm việc tập trung cao.",
+          "Sáng âm u nhẹ, hãy bật đèn để không làm mỏi mắt khi làm việc."
+        ],
+        "rainy": [
+
+          "Sáng mưa thật thư giãn! Pha một tách cà phê/trà ấm và tận hưởng không khí trong lành.",
+          "Tiếng mưa buổi sáng giúp tập trung tốt hơn. Hãy hoàn thành những công việc quan trọng.",
+          "Mưa sáng mang lại không khí mát mẻ. Nhớ mang ô nếu phải ra ngoài!"
+        ],
+        "hot": [
+          "Sáng nay đã nóng! Uống nhiều nước và tránh hoạt động ngoài trời quá lâu.",
+          "Nhiệt độ cao từ sáng sớm. Hãy ở nơi thoáng mát và bật quạt/điều hòa.",
+          "Thời tiết nóng bức, ưu tiên các hoạt động trong nhà vào buổi sáng."
+        ]
+      },
+      "productivity_tips": [
+        "Buổi sáng là thời gian vàng cho năng suất! Hãy tackle những task khó nhất trước.",
+        "Sáng nay bạn đã uống đủ nước chưa? Hydration là chìa khóa của sự tỉnh táo.",
+        "15 phút meditation buổi sáng sẽ giúp bạn calm và focus cả ngày."
+      ]
+    },
+    "afternoon": {
+      "time_range": [12, 17],
+      "weather_conditions": {
+        "sunny": [
+          "Trưa nắng gắt! Tránh ra ngoài từ 11h-14h. Ưu tiên nghỉ ngơi trong nhà.",
+          "UV index cao vào buổi trưa. Nếu phải ra ngoài, nhớ bôi kem chống nắng.",
+          "Nắng trưa rất mạnh, hãy che chắn kỹ và uống nhiều nước."
+        ],
+        "cloudy": [
+          "Chiều có mây che, thời tiết dễ chịu để ra ngoài walk hoặc chạy việc.",
+          "Ánh sáng chiều dịu nhẹ, suitable cho những hoạt động outdoor nhẹ nhàng.",
+          "Thời tiết chiều mát mẻ, có thể mở cửa sổ thay vì dùng điều hòa."
+        ],
+        "rainy": [
+          "Mưa chiều! Perfect timing để organized workspace hoặc catch up reading.",
+          "Tiếng mưa chiều rất thư giãn. Hãy slow down và enjoy moment này.",
+          "Chiều mưa lý tưởng để stay indoor và focus vào creative tasks."
+        ]
+      },
+      "productivity_tips": [
+        "Sau bữa trưa có thể hơi buồn ngủ. Hãy take a short walk để refresh.",
+        "Chiều là thời gian tốt để review công việc buổi sáng và plan cho ngày mai.",
+        "Nếu cảm thấy tired, hãy power nap 10-20 phút thay vì uống nhiều caffeine."
+      ]
+    },
+    "evening": {
+      "time_range": [18, 23],
+      "weather_conditions": {
+        "clear": [
+          "Tối nay trời quang đãng! Thời điểm tuyệt vời để đi dạo hoặc ngồi ngoài trời.",
+          "Bầu trời tối trong vắt, có thể ngắm sao và thư giãn sau ngày dài.",
+          "Thời tiết tối dễ chịu, mở cửa sổ để đón gió mát tự nhiên."
+        ],
+        "cool": [
+          "Tối mát mẻ! Thích hợp để tập thể dục nhẹ hoặc đi bộ quanh khu vực.",
+          "Không khí tối se lạnh, mặc thêm áo mỏng khi ra ngoài.",
+          "Thời tiết tối dễ chịu, có thể outdoor dinner hoặc gặp gỡ bạn bè."
+        ]
+      },
+      "wind_down_tips": [
+        "Tối rồi, hãy bắt đầu wind down routine để chuẩn bị cho giấc ngủ.",
+        "Dim lights xuống và tránh màn hình 1 tiếng trước khi ngủ.",
+        "Reflect về những điều tích cực trong ngày hôm nay."
+      ]
+    },
+    "night": {
+      "time_range": [0, 5],
+      "sleep_tips": [
+        "Đã quá khuya! Hãy chuẩn bị đi ngủ để đảm bảo 7-8 tiếng nghỉ ngơi.",
+        "Nếu chưa thể ngủ, thử deep breathing hoặc gentle stretching.",
+        "Tắt tất cả devices và tạo environment tối, yên tĩnh cho giấc ngủ."
+      ]
+    },
+    "health_wellness": {
+      "hydration": [
+        "Đã uống đủ 8 ly nước hôm nay chưa? Hydration rất quan trọng!",
+        "Nước lọc > nước ngọt. Hãy prioritize plain water cho sức khỏe.",
+        "Nếu thấy khô miệng hoặc mệt mỏi, có thể bạn cần uống thêm nước."
+      ],
+      "movement": [
+        "Ngồi lâu? Hãy đứng dậy stretch 2-3 phút mỗi giờ.",
+        "10,000 bước mỗi ngày là mục tiêu tốt. Bạn đã đi được bao nhiêu bước rồi?",
+        "Cầu thang thay vì thang máy - cách đơn giản để tăng daily activity."
+      ],
+      "mental_health": [
+        "Hôm nay bạn cảm thấy thế nào? Hãy check in với emotions của mình.",
+        "5 phút deep breathing có thể giảm stress đáng kể.",
+        "Gọi điện cho người thân hoặc bạn bè để maintain social connections."
+      ]
+    },
+    "work_productivity": {
+      "focus_time": [
+        "Pomodoro technique: 25 phút focus + 5 phút break. Hãy thử!",
+        "Turn off notifications trong deep work sessions để tăng concentration.",
+        "Ưu tiên 3 tasks quan trọng nhất mỗi ngày thay vì làm quá nhiều việc."
+      ],
+      "break_reminders": [
+        "Làm việc liên tục > 1 tiếng? Hãy break 5-10 phút để refresh não bộ.",
+        "Look away khỏi màn hình và focus vào something 20 feet away (20-20-20 rule).",
+        "Stand up, stretch, và take a few deep breaths."
+      ]
+    },
+    "weather_specific": {
+      "high_humidity": [
+        "Độ ẩm cao! Sử dụng quạt hoặc dehumidifier để tạo comfort.",
+        "Mặc quần áo cotton, thoáng khí trong thời tiết ẩm ướt.",
+        "Uống nhiều nước nhưng tránh đồ uống quá lạnh khi trời ẩm."
+      ],
+      "windy": [
+        "Gió mạnh! Cẩn thận khi đi xe hoặc walking outdoors.",
+        "Che chắn cửa sổ nếu gió thổi vào nhà quá mạnh.",
+        "Gió có thể làm khô da và mắt, hãy moisturize thêm."
+      ],
+      "extreme_heat": [
+        "Nhiệt độ cực cao! Hạn chế ra ngoài, stay hydrated và tìm nơi mát.",
+        "Nếu không có điều hòa, dùng wet towel và fan để làm mát cơ thể.",
+        "Watch out cho heat exhaustion: chóng mặt, nausea, excessive sweating."
+      ]
+    }
+  },
+  "conditions": {
+    "temperature_thresholds": {
+      "very_cold": {"max": 10, "unit": "celsius"},
+      "cold": {"min": 10, "max": 18, "unit": "celsius"},
+      "comfortable": {"min": 18, "max": 26, "unit": "celsius"},
+      "warm": {"min": 26, "max": 32, "unit": "celsius"},
+      "hot": {"min": 32, "max": 38, "unit": "celsius"},
+      "extreme_heat": {"min": 38, "unit": "celsius"}
+    },
+    "humidity_thresholds": {
+      "very_dry": {"max": 30},
+      "dry": {"min": 30, "max": 45},
+      "comfortable": {"min": 45, "max": 65},
+      "humid": {"min": 65, "max": 80},
+      "very_humid": {"min": 80}
+    },
+    "wind_thresholds": {
+      "calm": {"max": 2, "unit": "m_s"},
+      "light": {"min": 2, "max": 6, "unit": "m_s"},
+      "moderate": {"min": 6, "max": 12, "unit": "m_s"},
+      "strong": {"min": 12, "max": 20, "unit": "m_s"},
+      "very_strong": {"min": 20, "unit": "m_s"}
+    },
+    "uv_thresholds": {
+      "low": {"max": 2},
+      "moderate": {"min": 3, "max": 5},
+      "high": {"min": 6, "max": 7},
+      "very_high": {"min": 8, "max": 10},
+      "extreme": {"min": 11}
+    }
+  }
+}

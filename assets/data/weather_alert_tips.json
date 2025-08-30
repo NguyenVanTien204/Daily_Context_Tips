@@ -1,0 +1,174 @@
+{
+  "weather_alerts": {
+    "sunny_light": {
+      "name": "Nắng nhẹ",
+      "icon": "☀️",
+      "conditions": {
+        "temperature_range": [20, 28],
+        "uv_index_max": 6,
+        "cloud_cover_max": 30
+      },
+      "morning_tips": [
+        "Thời tiết nắng nhẹ dễ chịu, hãy tận dụng buổi sáng để vận động ngoài trời!",
+        "Nắng ấm nhẹ nhàng, đây là lúc tuyệt vời để đi bộ hoặc tập thể dục.",
+        "Thời tiết đẹp buổi sáng, hãy mở cửa sổ để đón ánh nắng tự nhiên vào nhà.",
+        "Nắng vừa phải, bạn có thể ra ngoài mà không cần quá lo lắng về chống nắng."
+      ],
+      "noon_tips": [
+        "Trưa nắng nhẹ, vẫn nên đội mũ khi ra ngoài để bảo vệ da.",
+        "Thời tiết dễ chịu, nhưng nhớ uống đủ nước để giữ cơ thể khỏe mạnh.",
+        "Nắng không quá gắt, có thể hoạt động bình thường nhưng tránh tiếp xúc trực tiếp quá lâu.",
+        "Thời tiết thuận lợi cho các hoạt động ngoài trời, hãy tận hưởng!"
+      ],
+      "afternoon_tips": [
+        "Chiều nắng dịu, thời gian lý tưởng để dạo phố hoặc gặp gỡ bạn bè.",
+        "Nắng chiều êm dịu, hãy tận dụng để chụp ảnh hoặc ngắm cảnh.",
+        "Thời tiết dễ chịu, có thể ngồi ngoài trời uống trà mà không lo nóng bức.",
+        "Nắng vàng chiều tạo không khí lãng mạn, hãy dành thời gian cho người thân."
+      ]
+    },
+    "sunny_intense": {
+      "name": "Nắng gắt",
+      "icon": "🌞",
+      "conditions": {
+        "temperature_range": [30, 45],
+        "uv_index_min": 7,
+        "cloud_cover_max": 20
+      },
+      "morning_tips": [
+        "⚠️ Dự báo nắng gắt cả ngày! Chuẩn bị kem chống nắng, mũ và nước uống.",
+        "Sáng nay đã nắng mạnh, hãy hạn chế ra ngoài từ 10h-15h.",
+        "🧴 Thoa kem chống nắng SPF 30+ trước khi ra khỏi nhà, kể cả đi trong phố.",
+        "Nắng sẽ rất gắt hôm nay, nên hoàn thành công việc ngoài trời từ sớm."
+      ],
+      "noon_tips": [
+        "🔥 CẢNH BÁO: Nắng gắt nhất trong ngày! Tránh ra ngoài từ 11h-14h.",
+        "Nhiệt độ cao nguy hiểm, chỉ ra ngoài khi thực sự cần thiết.",
+        "💧 Uống nước liên tục mỗi 15-20 phút, kể cả khi không khát.",
+        "Tìm chỗ râm mát, sử dụng điều hòa hoặc quạt để hạ nhiệt cơ thể."
+      ],
+      "afternoon_tips": [
+        "Chiều vẫn còn nắng gắt, đợi sau 16h mới nên ra ngoài.",
+        "🌡️ Nhiệt độ vẫn cao, hạn chế hoạt động ngoài trời mạnh.",
+        "Nếu phải ra ngoài, mặc áo dài tay, đội mũ rộng vành.",
+        "Ưu tiên ở trong nhà có điều hòa, tránh sốc nhiệt."
+      ]
+    },
+    "rain_light": {
+      "name": "Mưa nhỏ",
+      "icon": "🌦️",
+      "conditions": {
+        "precipitation_probability": [30, 60],
+        "rain_intensity": "light",
+        "wind_speed_max": 15
+      },
+      "morning_tips": [
+        "🌦️ Dự báo mưa nhỏ, mang theo ô nhỏ hoặc áo mưa nhẹ.",
+        "Mưa phùn có thể xuất hiện, chuẩn bị giày chống trượt.",
+        "Thời tiết mưa nhẹ tạo không khí mát mẻ, phù hợp để ở nhà đọc sách.",
+        "Mưa nhỏ có thể làm đường trơn trượt, lái xe cẩn thận hơn."
+      ],
+      "noon_tips": [
+        "Mưa nhỏ rơi lác đác, có thể di chuyển bình thường với ô che.",
+        "💧 Không khí ẩm ướt, hạn chế phơi quần áo ngoài trời.",
+        "Mưa phùn tạo độ ẩm cao, có thể cảm thấy oi bức trong nhà.",
+        "Thời tiết dễ chịu sau mưa, không khí trong lành hơn."
+      ],
+      "afternoon_tips": [
+        "Mưa nhỏ chiều tạo không khí lãng mạn, thích hợp ngồi quán cà phê.",
+        "🍵 Thời tiết mưa phùn, hãy pha một tách trà ấm thưởng thức.",
+        "Đường có thể ướt và trơn, đi bộ chậm rãi và cẩn thận.",
+        "Mưa nhỏ làm không khí mát mẻ, có thể mở cửa sổ hưởng gió."
+      ]
+    },
+    "rain_heavy": {
+      "name": "Mưa rào",
+      "icon": "🌧️",
+      "conditions": {
+        "precipitation_probability": [70, 90],
+        "rain_intensity": "heavy",
+        "wind_speed_max": 25
+      },
+      "morning_tips": [
+        "⚠️ Cảnh báo mưa rào lớn! Hãy ở nhà nếu không cần thiết ra ngoài.",
+        "Mưa to có thể gây ngập cục bộ, tránh các khu vực trũng thấp.",
+        "🌧️ Chuẩn bị áo mưa dày, ô to và giày chống nước nếu phải ra ngoài.",
+        "Kiểm tra đường đi trước khi xuất phát, tránh những tuyến đường dễ ngập."
+      ],
+      "noon_tips": [
+        "🚫 MƯAA RÀO MẠNH: Hoãn mọi kế hoạch ra ngoài nếu có thể.",
+        "Nước mưa có thể dâng cao, tuyệt đối không lội nước ngập.",
+        "⚡ Tránh sử dụng thiết bị điện khi tay ướt, cẩn thận với điện.",
+        "Ở trong nhà an toàn, đóng cửa sổ để tránh nước tạt vào."
+      ],
+      "afternoon_tips": [
+        "Mưa rào chiều có thể kéo dài, hãy kiên nhẫn chờ tạnh mới ra ngoài.",
+        "🚗 Nếu đang lái xe, giảm tốc độ và tăng khoảng cách an toàn.",
+        "Tránh đỗ xe dưới gốc cây lớn, cẩn thận với cành cây gãy.",
+        "Sau mưa lớn, đường có thể có hố sâu hoặc vật cản, đi chậm rãi."
+      ]
+    },
+    "thunderstorm": {
+      "name": "Sấm sét",
+      "icon": "⛈️",
+      "conditions": {
+        "precipitation_probability": [60, 95],
+        "thunder_probability": [70, 100],
+        "wind_speed_min": 25,
+        "lightning_risk": true
+      },
+      "morning_tips": [
+        "⚠️ CẢNH BÁO SẤMM SÉT! Tuyệt đối không ra ngoài trời khi có sấm sét.",
+        "🌩️ Ngắt điện các thiết bị không cần thiết để tránh sét đánh.",
+        "Tránh xa cửa sổ, cửa ra vào và đồ vật kim loại.",
+        "Nếu đang ngoài trời, tìm ngay nơi trú ẩn an toàn trong nhà."
+      ],
+      "noon_tips": [
+        "⛈️ SẤM SÉT NGUY HIỂM: Ở trong nhà, tránh sử dụng điện thoại có dây.",
+        "🚫 Không tắm bằng vòi sen, không chạm vào vật kim loại.",
+        "Tránh đứng gần cửa sổ hoặc ban công cao tầng.",
+        "Nếu ở ngoài trời, ngồi xổm thấp, tránh xa cây cao và cột điện."
+      ],
+      "afternoon_tips": [
+        "Dông sét chiều rất nguy hiểm, chờ hoàn toàn tạnh hết mới ra ngoài.",
+        "⚡ Sau sấm sét, kiểm tra các thiết bị điện trước khi sử dụng lại.",
+        "Cẩn thận với cây cối có thể bị sét đánh gãy cành.",
+        "Đường có thể ngập và trơn trượt sau dông, lái xe rất cẩn thận."
+      ]
+    }
+  },
+  "time_schedules": {
+    "morning": {
+      "time_range": [6, 11],
+      "name": "Buổi sáng",
+      "priority": 3
+    },
+    "noon": {
+      "time_range": [11, 14],
+      "name": "Buổi trưa",
+      "priority": 2
+    },
+    "afternoon": {
+      "time_range": [14, 23],
+      "name": "Buổi chiều",
+      "priority": 2
+    }
+  },
+  "severity_levels": {
+    "info": {
+      "priority": 1,
+      "color": "#2196F3",
+      "icon": "ℹ️"
+    },
+    "warning": {
+      "priority": 2,
+      "color": "#FF9800",
+      "icon": "⚠️"
+    },
+    "critical": {
+      "priority": 3,
+      "color": "#F44336",
+      "icon": "🚨"
+    }
+  }
+}
